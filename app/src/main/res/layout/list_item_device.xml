@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="230px"
+        android:layout_margin="55px"
+
+        >
+
+        <TextView
+            android:id="@+id/textview_device_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="device name"
+            android:layout_marginTop="60px"
+            android:layout_marginLeft="33px"
+            android:textColor="#282828"
+            android:textSize="36px" />
+        <TextView
+            android:id="@+id/textview_device_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="33px"
+            android:text="322424242"
+            android:textColor="#454545"
+            android:textSize="32px"
+            android:layout_marginTop="30px"
+            android:layout_below="@id/textview_device_name"
+            />
+        <TextView
+            android:id="@+id/textview_device_rssi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            tools:text="-35"
+            android:textSize="34px"
+            android:textColor="#282828"
+            android:layout_marginRight="28px"
+            />
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

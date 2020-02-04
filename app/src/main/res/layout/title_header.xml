@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/title_header"
+    android:layout_width="match_parent"
+    android:layout_height="91px"
+    android:background="@color/white"
+    android:gravity="center_vertical">
+
+    <RelativeLayout
+        android:id="@+id/back"
+        android:layout_width="90px"
+        android:layout_height="90px"
+        android:layout_alignParentTop="true"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/back_img"
+            android:layout_width="18px"
+            android:layout_height="32px"
+            android:cropToPadding="true"
+            android:contentDescription="@null" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/right_btn1"
+        android:layout_width="90px"
+        android:layout_height="90px"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/right_btn1_img"
+            android:layout_width="44px"
+            android:layout_height="34px"
+            android:contentDescription="@null"
+        />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/right_btn_qd"
+        android:layout_width="wrap_content"
+        android:layout_height="90px"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:minWidth="120px"
+        android:gravity="center"
+        android:paddingLeft="10px"
+        android:paddingRight="10px"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/right_text_qd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="完成"
+            android:textColor="#333333"
+            android:textSize="32px" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_alignParentTop="true"
+        android:layout_width="400px"
+        android:layout_height="90px"
+        android:layout_centerHorizontal="true"
+        android:textSize="36px"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:lines="1"
+        android:text=""
+        android:textColor="#333333" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@id/title"
+        android:background="#f4f4f4" />
+</RelativeLayout>

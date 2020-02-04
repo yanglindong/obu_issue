@@ -1,0 +1,113 @@
+<resources>
+
+    <!-- 蓝色 -->
+    <color name="blue_tv_sleep">#627AD9</color>
+    <color name="blue_tv_color_sport">#0da4a9</color>
+    <color name="all_bg">#188DD5</color>
+    <color name="all_tittle_bg">#0A9FA4</color>
+    <color name="blue_0099FF">#0099FF</color>
+    <color name="blue_1193B7">#1193B7</color>
+    <color name="blue_1175A6">#1175A6</color>
+    <color name="blue_11ADC4">#11ADC4</color>
+    <color name="login_bt_bg">#1DB8BD</color>
+    <color name="blue_74BBE7">#74BBE7</color>
+    <color name="blue_52BFD3">#52BFD3</color>
+    <!-- 绿色 -->
+    <color name="background">#F4F4F4</color>
+    <color name="blue">#4a83f3</color>
+    <color name="text_bg">#0a9fa4</color>
+    <color name="green_8cc">#8CCF72</color>
+    <color name="green_D3F666">#D3F666</color>
+
+    <!--黄色 -->
+    <color name="device_balance_color">#FFBA42</color>
+    <color name="sum_text">#f29f33</color>
+    <color name="FFAF3F">#FFAF3F</color>
+
+    <!-- 灰色 -->
+    <color name="font_gray">#999999</color>
+    <color name="click_item_gray">#EEEDED</color>
+    <color name="text_bg_gray">#bfbfbf</color>
+    <color name="text_gray">#919191</color>
+    <color name="line_gray">#e4e4e4</color>
+    <color name="half_transparent">#b0ffffff</color>
+    <color name="login_unclick_bg">#4e4e4e</color>
+    <color name="login_click_bg">#6c6c6c</color>
+    <color name="sum_text2">#C6C6C6</color>
+    <color name="head_txt_color">#575757</color>
+    <color name="gray_6f">#6F7678</color>
+    <color name="gray_df">#DFDFDF</color>
+    <color name="gray_d2">#D2D2D3</color>
+    <color name="gray_a0">#A0A0A0</color>
+    <color name="gray_777">#777</color>
+    <color name="gray_B7B7B7">#B7B7B7</color>
+    <color name="gray_666666">#666666</color>
+    <color name="gray_E7E7E7">#E7E7E7</color>
+    <color name="gray_f7">#fff7f2e9</color>
+    <color name="gray_d5">#ffd5d1c8</color>
+    <color name="gray_8c">#8C8A8A</color>
+    <color name="gray_ba">#BABBBA</color>
+    <!-- 黑色 -->
+    <color name="font_normal">#333333</color>
+    <color name="normal_black">#313131</color>
+    <color name="normal_black_bt">#131313</color>
+    <color name="titlle_black">#616161</color>
+    <color name="menu_line">#000000</color>
+    <color name="ninefive_transparent">#95000000</color>
+    <color name="ota_transparent">#77000000</color>
+    <color name="fivefive_black">#55000000</color>
+    <color name="aa_black">#53000000</color>
+    <color name="black_23">#232323</color>
+    <color name="black_02">#020202</color>
+    <color name="black">#000000</color>
+
+
+    <!-- 白色 -->
+    <color name="login_bg">#f7f7f7</color>
+    <color name="circle_bg">#99f7f7f7</color>
+    <color name="setting_itme_bg">#f1f1f1</color>
+    <color name="personal_bg">#f1edec</color>
+    <color name="main_menu_bg">#fdfafa</color>
+    <color name="main_menu_bind_bg">#EEEDED</color>
+    <color name="white">#ffffffff</color>
+    <color name="page_back">#fff2f2f2</color>
+    <color name="transparent_white">#00FFFFFF</color>
+
+    <!-- 红色 -->
+    <color name="red_text">#CA6060</color>
+    <!-- 透明色 -->
+    <color name="transparent">#00000000</color>
+    <!-- 紫色 -->
+    <color name="color_d4d4d4">#D4D4D4</color>
+    <color name="color_959394">#959394</color>
+    <color name="color_555a5d">#555a5d</color>
+    <color name="color_868687">#868687</color>
+    <color name="color_0da4a9">#0da4a9</color>
+    <color name="color_10b7bc">#10b7bc</color>
+    <color name="color_637adb">#637adb</color>
+    <color name="color_6cf4f8">#6cf4f8</color>
+    <color name="color_86dfe2">#86dfe2</color>
+    <color name="color_728cfe">#728cfe</color>
+    <color name="color_4a64d0">#4a64d0</color>
+    <color name="color_5EB6ED">#5EB6ED</color>
+    <color name="color_3e84cc">#3e84cc</color>
+    <color name="color_1296DB">#1296DB</color>
+    <color name="color_F0F0F0">#F0F0F0</color>
+    <color name="color_EFEFEF">#EFEFEF</color>
+    <color name="color_86f9fd">#86f9fd</color>
+    <color name="color_EEEEEE">#EEEEEE</color>
+    <color name="red">#b60017</color>
+    <color name="color_order_success">#e24941</color>
+    <!--底部文字颜色-->
+    <color name="bottom_text_not_click_color">#929292</color>
+    <color name="bottom_text_click_color">#1296DB</color>
+    <color name="bottom_bg_color">#f9f9f9</color>
+    <color name="search_watch_list_text_color">#929292</color>
+    <color name="card_bg_blue_color">#198fd5</color>
+    <color name="card_bg_green_color">#19a664</color>
+    <color name="card_bg_yellow_color">#faa82a</color>
+    <color name="card_bg_red_color">#dc4844</color>
+    <color name="card_bg_purple_color">#754da6</color>
+    <color name="card_bg_cyan_color">#1dc0ce</color>
+
+</resources>
